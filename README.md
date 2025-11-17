@@ -4,6 +4,6 @@
 - 📫 I am only providing support through github, have an issue raise it on git
 - 📫 How to reach me: Via Discord - nathan2494
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nathan-FiveM&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nathan-FiveM&theme=dark&date_format=j%20M%5B%20Y%5D)]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathan-FiveM&show_icons=true&theme=dark&title_color=9B15DD&icon_color=9B15DD)
